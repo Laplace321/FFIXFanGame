@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"list":[{"code":318,"indent":0,"parameters":[0,1,0,20]},{"code":318,"indent":0,"parameters":[0,1,1,19]},{"code":313,"indent":0,"parameters":[0,1,1,11]},{"code":318,"indent":0,"parameters":[0,1,0,24]},{"code":0,"indent":0,"parameters":[]}],"name":"学会魔交击斩","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":318,"indent":0,"parameters":[0,1,0,22]},{"code":318,"indent":0,"parameters":[0,1,1,20]},{"code":0,"indent":0,"parameters":[]}],"name":"学会魔连攻","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":318,"indent":0,"parameters":[0,1,1,22]},{"code":0,"indent":0,"parameters":[]}],"name":"遗忘魔连攻","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":111,"indent":0,"parameters":[0,1,0]},{"code":111,"indent":1,"parameters":[0,2,0]},{"code":318,"indent":2,"parameters":[0,1,0,17]},{"code":318,"indent":2,"parameters":[0,1,0,18]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"学会最终赤技能","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":318,"indent":0,"parameters":[0,1,1,17]},{"code":318,"indent":0,"parameters":[0,1,1,18]},{"code":313,"indent":0,"parameters":[0,1,1,11]},{"code":121,"indent":0,"parameters":[1,1,1]},{"code":121,"indent":0,"parameters":[2,2,1]},{"code":0,"indent":0,"parameters":[]}],"name":"遗忘最终赤技能","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":313,"indent":0,"parameters":[0,1,1,11]},{"code":0,"indent":0,"parameters":[]}],"name":"Trace Off","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":121,"indent":0,"parameters":[1,1,0]},{"code":0,"indent":0,"parameters":[]}],"name":"1","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":121,"indent":0,"parameters":[2,2,0]},{"code":0,"indent":0,"parameters":[]}],"name":"2","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":121,"indent":0,"parameters":[3,3,0]},{"code":0,"indent":0,"parameters":[]}],"name":"3","switchId":1,"trigger":0}
+]

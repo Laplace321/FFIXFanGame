@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":612,"scrollY":410},
+{"id":2,"expanded":false,"name":"普通小镇","order":2,"parentId":1,"scrollX":601.3333333333334,"scrollY":426},
+{"id":3,"expanded":false,"name":"魔王城","order":3,"parentId":1,"scrollX":1081.3333333333333,"scrollY":640}
+]
